@@ -3,7 +3,7 @@ import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
 import bookmarksView from './views/bookmarksView.js';
-import PaginationView from './views/PaginationView.js';
+import PaginationView from './views/paginationView.js';
 import addRecipeView from './views/addRecipeView.js';
 import { MODAL_CLOSE_SEC } from './config.js';
 // import icons from '../img/icons.svg'; // Parcel 1
